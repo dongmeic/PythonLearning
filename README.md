@@ -1,2 +1,2 @@
 # PythonLearning
-The repository is to save Python codes from online courses.
+To learn python for problem solving
