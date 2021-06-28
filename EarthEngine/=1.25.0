@@ -1,0 +1,10 @@
+Collecting google-auth
+  Using cached google_auth-1.32.0-py2.py3-none-any.whl (147 kB)
+Requirement already satisfied: six>=1.9.0 in /Users/dongmeichen/opt/anaconda3/envs/geoenv/lib/python3.8/site-packages (from google-auth) (1.16.0)
+Requirement already satisfied: cachetools<5.0,>=2.0.0 in /Users/dongmeichen/opt/anaconda3/envs/geoenv/lib/python3.8/site-packages (from google-auth) (4.2.2)
+Requirement already satisfied: setuptools>=40.3.0 in /Users/dongmeichen/opt/anaconda3/envs/geoenv/lib/python3.8/site-packages (from google-auth) (52.0.0.post20210125)
+Requirement already satisfied: rsa<5,>=3.1.4 in /Users/dongmeichen/opt/anaconda3/envs/geoenv/lib/python3.8/site-packages (from google-auth) (4.7.2)
+Requirement already satisfied: pyasn1-modules>=0.2.1 in /Users/dongmeichen/opt/anaconda3/envs/geoenv/lib/python3.8/site-packages (from google-auth) (0.2.8)
+Requirement already satisfied: pyasn1<0.5.0,>=0.4.6 in /Users/dongmeichen/opt/anaconda3/envs/geoenv/lib/python3.8/site-packages (from pyasn1-modules>=0.2.1->google-auth) (0.4.8)
+Installing collected packages: google-auth
+Successfully installed google-auth-1.32.0
